@@ -14,11 +14,13 @@ However since there is more that one solution for this fourth circle we want to 
 
 ## Some Notes
 > A  pattern of infinitely nested circles is called an Apollonian gasket. <br>
-Example:<br>
+Example: (Image credit : [Brent from mathlesstravelled](
+Brent))<br>
 ![image](https://github.com/DoesDevStuff/PI_Day-Challenge/assets/74312830/d56fbbf9-0cfd-4000-9232-ff7ceacc58fc)
 > <br><br>The set of four mutually tangent circles is known as a <i>kissing set</i>.
 > <br><br>And given three mutually tangential circles there are <b>two</b> circles that would complete the kissing set. <br>
-Example (the red circles represent the 'fourth circle' that completes the kissing set).<br>
+Example (the red circles represent the 'fourth circle' that completes the kissing set).(Image credit : [Brent from mathlesstravelled](
+Brent))<br>
 ![image](https://github.com/DoesDevStuff/PI_Day-Challenge/assets/74312830/07e46da0-07b7-4f79-8eea-5f4119280591)
 
 # References
